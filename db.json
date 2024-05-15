@@ -1,0 +1,14 @@
+{
+    "objeto": [ 
+      {
+        "id": "string",
+        "personaje": "string",
+        "txt": "string",
+        "username": "string",
+        "comentario": "comentario",
+        "fecha_creación_comentario": "string",
+        "likes": 0
+      }
+    ]
+  }
+  
