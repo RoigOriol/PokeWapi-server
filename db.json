@@ -1,14 +1,19 @@
 {
-    "objeto": [ 
-      {
-        "id": "string",
-        "personaje": "string",
-        "txt": "string",
-        "username": "string",
-        "comentario": "comentario",
-        "fecha_creación_comentario": "string",
-        "likes": 0
-      }
-    ]
-  }
-  
+  "chats": [
+    {
+      "comment": "charmander manuel",
+      "pokemonId": 6,
+      "id": 1
+    },
+    {
+      "comment": "me gustah er gazpasho",
+      "pokemonId": 6,
+      "id": 2
+    },
+    {
+      "comment": "charcuteria pepita la merendada",
+      "pokemonId": 6,
+      "id": 3
+    }
+  ]
+}
